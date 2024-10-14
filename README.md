@@ -1,2 +1,5 @@
-# rental-company-v1
-portfolio project
+Zadanie:
+
+Your client has asked you to create a web app for renting Tesla cars in Mallorca. They have a few locations (Palma Airport, Palma City Center, Alcudia and Manacor) and people can rent and return the cars at any one of them. They rent all available passenger Tesla models (so, except the Semi). They will give you exact pricing later, for now you should use amounts of your choosing. The website should allow you to create a reservation for a Tesla for a specified date range. It should also calculate the total cost of the reservation and store the reservation details in some database.
+
+Twój klient poprosił Cię o stworzenie aplikacji internetowej do wynajmu samochodów Tesla na Majorce. Mają kilka lokalizacji (lotnisko Palma, centrum Palmy, Alcudia i Manacor), a ludzie mogą wypożyczać i zwracać samochody w każdym z nich. Wypożyczają wszystkie dostępne pasażerskie modele Tesli (z wyjątkiem Semi). Dokładne ceny podadzą później, na razie powinieneś użyć wybranych przez siebie kwot. Witryna powinna umożliwiać utworzenie rezerwacji Tesli na określony zakres dat. Powinna również obliczać całkowity koszt rezerwacji i przechowywać szczegóły rezerwacji w bazie danych.
